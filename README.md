@@ -1,74 +1,165 @@
-# Hi 👋, I'm Saurav Kumar
-
-### A passionate frontend developer from Jharkhand
+<!-- Header Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Saurav+Kumar;Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning" alt="Typing Animation"/>
+</div>
 
 ---
 
-## 📊 Profile Stats
+## 🎯 Professional Overview
+
+Full-stack web developer with expertise in **modern JavaScript frameworks**, **responsive design**, and **DOM manipulation**. Passionate about building scalable, user-centric applications with clean architecture and best practices. Based in **Jharkhand, India** | Open to **remote opportunities**.
+
+---
+
+## 📊 Developer Statistics
 
 <div align="center">
 
-**📦 Repositories**  
-
+| Metric | Value |
+|--------|-------|
+| **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sauravkushwaha2244&query=$.public_repos&label=Repos&color=blue&style=flat-square) |
+| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/sauravkushwaha2244?style=flat-square&label=Followers) |
+| **Total Stars** | ![Stars](https://img.shields.io/github/stars/sauravkushwaha2244?style=flat-square&label=Stars) |
 
 </div>
 
 ---
 
-## 💼 About Me
+## 💼 Technical Expertise
 
-- 🎯 **Frontend Developer** specializing in modern web technologies
-- 🌱 **Currently Learning:** DOM, JavaScript Frameworks, Advanced CSS
-- 💻 **Tech Stack:** HTML5, CSS3, JavaScript, C++
-- 📍 **Location:** Jharkhand, India
-
----
-
-## 🛠️ Languages & Tools
+### Core Technologies
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
+### Currently Mastering
+
+```
+Frontend Frameworks    │ React, Vue.js
+DOM Architecture       │ Advanced event handling, DOM manipulation
+Responsive Design      │ Mobile-first, CSS Grid, Flexbox
+State Management       │ Learning best practices
+Version Control        │ Git/GitHub workflows
+```
+
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
+
+Coming soon. Currently building portfolio projects demonstrating:
+- ✨ Clean, maintainable code
+- 🎨 Professional UI/UX design
+- 📱 Responsive web applications
+- ⚡ Performance optimization
+- 🔐 Best security practices
+
+---
+
+## 📈 GitHub Activity & Contributions
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sauravkushwaha2244)
-[![LinkedIn](https://www.linkedin.com/in/saurav-kumar-57a526375)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauravkushwaha2244&theme=dark&hide_border=true)](https://github.com/sauravkushwaha2244)
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 🎓 Learning Path & Development
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sauravkushwaha2244&theme=dark)](https://github.com/sauravkushwaha2244)
+**Current Focus Areas:**
+- 📚 Advanced JavaScript (ES6+, async/await, closures)
+- 🎨 CSS preprocessors (SASS/SCSS)
+- ⚙️ Web performance optimization
+- 🔄 API integration and REST principles
+- 📦 Package management and build tools
+
+**Short-term Goals:**
+- Build 3-5 production-quality projects
+- Contribute to open source
+- Master React/Vue.js ecosystem
+- Backend development fundamentals
 
 ---
 
-## 🚀 Recent Work
+## 🛠️ Development Tools & Environment
 
-Your featured projects will appear here. Add descriptions as you build more repositories.
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| **Code Editor** | VS Code |
+| **Version Control** | Git, GitHub |
+| **Design Tools** | Figma, DevTools |
+| **Package Manager** | NPM, Yarn |
+| **Browser DevTools** | Chrome, Firefox |
+
+</div>
+
+---
+
+## 🌐 Professional Presence
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sauravkushwaha2244)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurav-kumar-57a526375)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saurav@example.com)
+
+</div>
+
+---
+
+## 📝 Philosophy & Approach
+
+> *"Code is read far more often than it is written. Write with clarity, purpose, and the next developer in mind."*
+
+I believe in:
+- **Clean Code** — Readable, maintainable, and well-documented
+- **Continuous Learning** — Technology evolves; so must we
+- **User-Centric Design** — Performance and usability matter
+- **Open Collaboration** — Knowledge sharing strengthens communities
+
+---
+
+## 🔄 Recent Activity
+
+<div align="center">
+
+[![GitHub Recent Activity](https://activity-graph.herokuapp.com/graph?username=sauravkushwaha2244&theme=github-dark&hide_border=true)](https://github.com/sauravkushwaha2244)
+
+</div>
+
+---
+
+## 📞 Let's Connect
+
+I'm always interested in:
+- 💬 Discussing web development best practices
+- 🤝 Collaboration on interesting projects
+- 📚 Sharing knowledge and learning from others
+- 🚀 Exploring new technologies and frameworks
+
+**Feel free to reach out via:** 
+- LinkedIn: [@saurav-kumar-57a526375](https://www.linkedin.com/in/saurav-kumar-57a526375)
+- GitHub: [@sauravkushwaha2244](https://github.com/sauravkushwaha2244)
+- Email: saurav@example.com
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by Saurav Kumar
+### 🌟 Thank you for visiting my profile!
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sauravkushwaha2244.sauravkushwaha2244)
+![Profile Views](https://komarev.com/ghpvc/?username=sauravkushwaha2244&color=0066cc&style=flat-square)
+
+**Last Updated:** 2026
 
 </div>
-
----
-
-</script>
