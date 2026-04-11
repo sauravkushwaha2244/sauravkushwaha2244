@@ -32,8 +32,11 @@ Full-stack web developer with expertise in **modern JavaScript frameworks**, **r
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
@@ -41,10 +44,11 @@ Full-stack web developer with expertise in **modern JavaScript frameworks**, **r
 ### Currently Mastering
 
 ```
-Frontend Frameworks    │ React, Vue.js
+Frontend Frameworks    │ React, Vue.js, Bootstrap
+Python Development    │ Core fundamentals, data structures
 DOM Architecture       │ Advanced event handling, DOM manipulation
 Responsive Design      │ Mobile-first, CSS Grid, Flexbox
-State Management       │ Learning best practices
+State Management       │ React hooks, component lifecycle
 Version Control        │ Git/GitHub workflows
 ```
 
@@ -88,22 +92,6 @@ Coming soon. Currently building portfolio projects demonstrating:
 
 ---
 
-## 🛠️ Development Tools & Environment
-
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| **Code Editor** | VS Code |
-| **Version Control** | Git, GitHub |
-| **Design Tools** | Figma, DevTools |
-| **Package Manager** | NPM, Yarn |
-| **Browser DevTools** | Chrome, Firefox |
-
-</div>
-
----
-
 ## 🌐 Professional Presence
 
 <div align="center">
@@ -111,7 +99,7 @@ Coming soon. Currently building portfolio projects demonstrating:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sauravkushwaha2244)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurav-kumar-57a526375)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:saurav@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sauriya2244@gmail.com)
 
 </div>
 
@@ -150,7 +138,7 @@ I'm always interested in:
 **Feel free to reach out via:** 
 - LinkedIn: [@saurav-kumar-57a526375](https://www.linkedin.com/in/saurav-kumar-57a526375)
 - GitHub: [@sauravkushwaha2244](https://github.com/sauravkushwaha2244)
-- Email: saurav@example.com
+- Email: sauriya2244@gmail.com
 
 ---
 
